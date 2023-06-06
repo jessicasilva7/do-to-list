@@ -27,6 +27,7 @@ h4 {
 .saudacao .titulo {
     display: flex;
     font-size: 2rem;
+    color: #F97B22;
 
 }
 
@@ -249,7 +250,7 @@ font-size: 1.13rem;
 
     .lista-de-tarefas .acoes button {
         padding: 0;
-        font-size: 20px;
+        font-size: 25px;
     }
 
     /* .lista-de-tarefas label {
@@ -259,15 +260,13 @@ font-size: 1.13rem;
 
     .acoes {
         display: flex;
-
-        margin: 2px;
+    margin: 2px;
         /* position: absolute; */
 
     }
 
     .lista-de-tarefas label {
         margin-right: 0.1rem;
-
     }
 
     .lista-de-tarefas .container-lista {
